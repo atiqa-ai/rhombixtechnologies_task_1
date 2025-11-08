@@ -1,7 +1,7 @@
 # rhombixtechnologies_tasks
 
 
-#1.🎙️ Voice Assistant (Jarvis Style)
+# 1.🎙️ Voice Assistant (Jarvis Style)
 📖 Project Description
 
 Meet your personal Python Voice Assistant 🤖 — just like Jarvis!
@@ -33,7 +33,7 @@ This program listens to your voice commands, speaks back, and performs real-time
 🗨️ “What’s the time?”
 🗨️ “Quit”
 
-#2.Fabonacci generaotr
+# 2.Fabonacci generaotr
 The Fibonacci Generator is a Python program that generates Fibonacci numbers using the yield keyword.
 Instead of creating the entire sequence at once, it produces each number one-by-one — making it fast, memory-efficient, and elegant.
 
