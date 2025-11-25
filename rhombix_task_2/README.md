@@ -1,4 +1,5 @@
-# Hangman Game & 🎓 Student Record System (Python OOP)
+# Hangman Game & 🎓 Student Record System 
+
 
 Here check out my 2nd task of internship at rhombix technologies and i have completed two python program and learnt some of new concepts and have applied on my program...
 This project contains two separate Python programs:
@@ -40,3 +41,4 @@ Simple interactive menu system
 My programs seems to be small but tey helped me a lot to understand some of my new concepts...
 Atiqa 
 python programmar
+
